@@ -6,6 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp3.1\book.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\book.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
